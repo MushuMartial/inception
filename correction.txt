@@ -1,0 +1,8 @@
+wp-login
+
+login into the SQL database :	sudo docker ps
+								sudo docker exec -it <process> sh
+								mysql -u root -p
+								show databases;
+								use <databases>;
+								show tables;
